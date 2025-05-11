@@ -1,3 +1,3 @@
 # Flask Data Api
 
-A complex project for Agradoot's portfolio.
+Simple project for my portfolio starting out
